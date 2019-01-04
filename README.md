@@ -1,5 +1,7 @@
 # Pedestrian Gate Automation with Estimote Beacons and Node-RED
 
+Demo available on [YouTube](https://www.youtube.com/watch?v=VwMny6WjUbc).
+
 ### Project structure
 
 In the root folder of the repository you can find:
